@@ -11,4 +11,7 @@ class man:
 
 m = man("David")
 m.hello()
-m.goodbye()15
+m.goodbye()
+
+
+202402387 컴퓨터공학부 이윤수
